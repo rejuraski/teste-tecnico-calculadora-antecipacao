@@ -1,3 +1,8 @@
+Hoje nossos clientes precisam saber quanto custa antecipar uma transação, e para isso, foi desenvolvido uma calculadora de antecipação para que os mesmos consigam saber quais valores receberão caso optem por antecipar o recebimento.
+
+Base URL:
+API: https://frontend-challenge-7bu3nxh76a-uc.a.run.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
