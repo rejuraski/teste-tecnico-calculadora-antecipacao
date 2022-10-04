@@ -1,0 +1,10 @@
+.app {
+  display: flex;
+  justify-content: space-around;
+  padding: 148px;
+  background: aliceblue;
+}
+
+body {
+  background: aliceblue;
+}
